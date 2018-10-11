@@ -1,1 +1,131 @@
+html, body{
+  height:100%;
+  margin:0;
+}
+body {
+  background-image:url("https://img.freepik.com/free-vector/beautiful-luxury-vintage-background-design_1017-12457.jpg?size=338&ext=jpg")
+  
+}
+.row{
+position:relative;
+margin-left:10%;
+margin-right:10%;
+}
+
+.clear {
+  clear:both;
+}
+
+.white, .black {
+border: 1px solid black ;
+width: 10%;
+height: 60px;
+float:left;
+}
+
+.white{
+background-color:white;
+}
+.black{
+background-color:#B8860B;
+}
+
+.Peru {
+  background-color:#CD853F;
+}
+
+
+#container {
+  margin-top:20%;
+  margin-left:10%;
+  margin-right:10%;
+  margin-bottom:5%;
+}
+#title {
+  top:0px;
+  left:0px;
+  padding:10px;
+  margin:0px;
+  width:100%;
+  background-color:	#008080;
+   text-align:center;
+  z-index:10;
+    font-family:
+      'WaltographRegular';
+        font-weight: normal;
+        font-style: normal;
+        font-size:36px;
+}
+
+#footer { 
+  background-color:	#008080;
+  padding-top: 10px;
+  text-align:center;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
